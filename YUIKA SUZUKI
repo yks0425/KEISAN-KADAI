@@ -1,4 +1,4 @@
-if x == y
+if x == y:
    print("HAPPY")
-else
+else:
    print("UNHAPPY")
