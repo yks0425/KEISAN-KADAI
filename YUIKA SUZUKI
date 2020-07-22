@@ -1,0 +1,4 @@
+if x == y
+   print("HAPPY")
+else
+   print("UNHAPPY")
